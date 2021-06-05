@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "D:\\anaconda3_v2\\python.exe",
+    "discord.enabled": true,
+    "jupyter.jupyterServerType": "local"
+}
